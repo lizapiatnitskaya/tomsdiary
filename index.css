@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Saira Thin";
+    src: url("fonts/saira-thin/saira-thin.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("fonts/saira-thin/saira-thin.otf") format("opentype"), /* Open Type Font */
+        url("fonts/saira-thin/saira-thin.svg") format("svg"), /* Legacy iOS */
+        url("fonts/saira-thin/saira-thin.ttf") format("truetype"), /* Safari, Android, iOS */
+        url("fonts/saira-thin/saira-thin.woff") format("woff"), /* Modern Browsers */
+        url("fonts/saira-thin/saira-thin.woff2") format("woff2"); /* Modern Browsers */
+}
+
+body {
+    font-family: "Saira Thin", sans-serif;
+}
+

@@ -10,5 +10,11 @@
 
 body {
     font-family: "Saira Thin", sans-serif;
+    font-size: medium;
 }
-
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 1.2em;
+}

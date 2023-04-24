@@ -11,10 +11,18 @@
 body {
     font-family: "Saira Thin", sans-serif;
     font-size: medium;
+    color:#555;
 }
 h1{
     font-size: 150%;
+    color:#111;
+    border-bottom: thin dotted #111;
 }
 h2{
     font-size: 1.2em;
+    color:#222;
+    border-bottom: thin dotted #222;
+}
+p,li,blockquote,dt,dd{
+    font-style: italic;
 }

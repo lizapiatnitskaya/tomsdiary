@@ -26,3 +26,29 @@ h2{
 p,li,blockquote,dt,dd{
     font-style: italic;
 }
+table{
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    caption-side: bottom;
+    border-collapse: collapse;
+}
+td,th{
+    border:thin dotted gray;
+    width: 16.67%;
+    text-align: center;
+}
+caption{
+    font-style: italic;
+    padding-top:8px;
+}
+th{
+    background-color: #c60;
+}
+
+tr:nth-child(2n+1){
+    background-color: #fcba7a;
+}
+#dispute{
+    background: white;
+}
